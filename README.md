@@ -9,10 +9,10 @@ A practical Software Testing project focused on testing the OrangeHRM applicatio
 ## Testing Approach
 
 - Requirements & Feature Exploration
-- Test Scenarios
+- Test Plan
+- User Stories
+- Acceptance Criteria
 - Test Cases
-- Test Execution
-- Defect Reporting
-- Retesting
-- Regression Testing
-- Test Summary Report
+- Test Execution Results
+- Defect Reports
+- Final Test Summary Report
